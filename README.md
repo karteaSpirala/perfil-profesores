@@ -1,1 +1,1 @@
-https://github.com/karteaSpirala/perfil-profesores
+https://karteaspirala.github.io/perfil-profesores/.
